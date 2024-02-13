@@ -39,10 +39,9 @@ h1 {
 
 #message-container {
   overflow: hidden;
-   overflow:scroll;
   border-radius: 5px;
   background: #ececec;
-  padding: 20px 20px 20px 20px;
+  padding: 0px 20px 0px 20px;
   box-shadow: inset 0 0 15px rgba(144, 86, 9, 9);
   max-height: 0; /* Set initial max-height to 0 */
   transition: max-height 1.5s ease, padding 0.3s ease; /* Add transition for max-height and padding */
